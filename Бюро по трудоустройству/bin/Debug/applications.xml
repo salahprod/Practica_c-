@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Applications>
+  <Application>
+    <Id>1</Id>
+    <JobSeekerId>2</JobSeekerId>
+    <EmployerId>1</EmployerId>
+    <Position>президент</Position>
+    <ExpectedSalary>4231234</ExpectedSalary>
+    <Status>Pending</Status>
+    <ApplicationDate>2026-04-03T11:35:50.4500383+03:00</ApplicationDate>
+    <ResponseDate />
+    <Message></Message>
+    <RejectionReason></RejectionReason>
+  </Application>
+</Applications>

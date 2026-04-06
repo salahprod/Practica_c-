@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Seekers>
+  <Seeker>
+    <Id>1</Id>
+    <LastName>Чещевик</LastName>
+    <FirstName>Артем</FirstName>
+    <Patronymic></Patronymic>
+    <Qualification>бекенд разработчик</Qualification>
+    <ActivityType>IT</ActivityType>
+    <OtherInfo></OtherInfo>
+    <ExpectedSalary>5000</ExpectedSalary>
+  </Seeker>
+  <Seeker>
+    <Id>2</Id>
+    <LastName>Ёлка</LastName>
+    <FirstName>Артём</FirstName>
+    <Patronymic></Patronymic>
+    <Qualification>пекарь</Qualification>
+    <ActivityType>выпечка</ActivityType>
+    <OtherInfo></OtherInfo>
+    <ExpectedSalary>2000</ExpectedSalary>
+  </Seeker>
+</Seekers>

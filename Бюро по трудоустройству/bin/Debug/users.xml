@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Id>2</Id>
+    <Username>art</Username>
+    <Password>1111</Password>
+    <Role>User</Role>
+    <Email></Email>
+    <RegistrationDate>2026-04-03T15:17:37.6368292+03:00</RegistrationDate>
+    <IsActive>true</IsActive>
+    <LinkedEntityId />
+  </User>
+</Users>

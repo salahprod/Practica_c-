@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|d:\\c#\\practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\data\\xmldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\data\\xmldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\employerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\employerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\jobseekerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\jobseekerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\jobseekerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\jobseekerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\employerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\employerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\dealdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\dealdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\dealdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\dealdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\models\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\models\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\reportdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\reportdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\reportdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\dialogs\\reportdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{1A941529-9DC9-4231-9730-1FC18586FA67}|\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj|solutionrelative:\u0431\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobSeekerDialog.xaml",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T18:08:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T17:21:45.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployerDialog.xaml",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T17:48:21.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployerDialog.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\EmployerDialog.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:06:40.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DealDialog.xaml",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T19:41:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYCAAAAAAAAAAAAwEECAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:21:45.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlDataService.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Data\\XmlDataService.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Data\\XmlDataService.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Data\\XmlDataService.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Data\\XmlDataService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:32:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobSeekerDialog.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\JobSeekerDialog.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:12:28.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DealDialog.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\DealDialog.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T19:42:59.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.config",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.config",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.config",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-26T20:18:37.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\JobSeeker.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\JobSeeker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:29:46.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T19:55:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportDialog.xaml",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T19:44:37.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:36:24.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Deal.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Deal.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Deal.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Deal.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Deal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:30:34.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Employer.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Employer.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Models\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:28:52.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T17:23:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\Settings.settings",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\Settings.settings",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-04-02T10:21:54.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportDialog.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml.cs",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml.cs",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml.cs",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\Dialogs\\ReportDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T19:46:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443",
+              "DocumentMoniker": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj",
+              "RelativeDocumentMoniker": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj",
+              "ToolTip": "D:\\c#\\Practica_c#\\project_practica\\employment agency\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj",
+              "RelativeToolTip": "\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443\\\u0411\u044E\u0440\u043E \u043F\u043E \u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0443.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-02T10:17:23.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

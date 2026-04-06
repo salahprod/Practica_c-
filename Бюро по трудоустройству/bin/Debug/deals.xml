@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deals>
+  <Deal>
+    <Id>1</Id>
+    <EmployerId>1</EmployerId>
+    <SeekerId>1</SeekerId>
+    <Position>бекенд разработчик</Position>
+    <Commission>200</Commission>
+    <Date>2026-04-05T00:00:00+03:00</Date>
+  </Deal>
+  <Deal>
+    <Id>2</Id>
+    <EmployerId>2</EmployerId>
+    <SeekerId>2</SeekerId>
+    <Position>пекарь</Position>
+    <Commission>100</Commission>
+    <Date>2026-04-05T00:00:00+03:00</Date>
+  </Deal>
+</Deals>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employers>
+  <Employer>
+    <Id>1</Id>
+    <Name>артпрод</Name>
+    <ActivityType>сто</ActivityType>
+    <Address>улица пушкина</Address>
+    <Phone>375293890245</Phone>
+  </Employer>
+  <Employer>
+    <Id>2</Id>
+    <Name>маркпрод</Name>
+    <ActivityType>выпечка</ActivityType>
+    <Address>Солнечная 10</Address>
+    <Phone>375330009991</Phone>
+  </Employer>
+</Employers>
